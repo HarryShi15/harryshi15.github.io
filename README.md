@@ -1,10 +1,10 @@
-# Yanhao Shi — academic website content draft
+# Yanhao Shi — academic website
 
-These Markdown pages are for an English academic website based on [al-folio](https://github.com/alshedivat/al-folio). The intended public address is <https://harryshi15.github.io/>.
+This is my academic website, based on [al-folio](https://github.com/alshedivat/al-folio), at <https://harryshi15.github.io/>.
 
-## Pages
+## Content
 
-- `_pages/about.md` — introduction, education, and supervisors.
-- `_pages/research.md` — current PhD research topic.
+- `_pages/about.md`: biography, education, and supervisors.
+- `_pages/research.md`: current PhD research topic.
 
-This folder contains the confirmed content pages, not a complete buildable al-folio repository. Add them to a copy of the al-folio template and configure `_config.yml` with `url: https://harryshi15.github.io` and an empty `baseurl:`. Review the GitHub Actions build before enabling Pages from the generated `gh-pages` branch.
+The site builds from the `main` branch with `.github/workflows/deploy.yml`. Publish GitHub Pages from the generated `gh-pages` branch, root folder. The Pages source is not `main`.
