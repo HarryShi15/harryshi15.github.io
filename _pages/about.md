@@ -6,7 +6,7 @@ subtitle: PhD student in Mathematics at Nanyang Technological University, Singap
 
 profile:
   align: right
-  image:
+  image: photo.jpg
   more_info:
 
 selected_papers: false
