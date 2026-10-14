@@ -1,4 +1,7 @@
 ---
+nav: true
+nav_order: 1
+
 layout: about
 title: about
 permalink: /
