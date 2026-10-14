@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Research topic of Yanhao Shi.
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 ## Research on Deep Learning Based on Neural Operator Approximation
