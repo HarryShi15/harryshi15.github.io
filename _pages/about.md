@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Yanhao Shi**, a PhD student in Mathematics at **Nanyang Technological University (NTU)**, Singapore. My current research topic is **Research on Deep Learning Based on Neural Operator Approximation**. You can read more on the [Research](/research/) page.
+I am **Yanhao (Harry) Shi**, a PhD student in Mathematics at **Nanyang Technological University (NTU)**, Singapore. My current research topic is **Research on Deep Learning Based on Neural Operator Approximation**. You can read more on the [Research](/research/) page.
 
 ## Education
 
